@@ -10,10 +10,10 @@ This is an example folder with a bunch of feat_manual.hdf5 files inside of it. T
 This is an example video that just shows what kinds of videos these data are coming from.
 
 ## Other:
-GitHub for TierPsy: https://github.com/ver228/tierpsy-tracker
+**GitHub for TierPsy**: https://github.com/ver228/tierpsy-tracker
 
-JupyterLab (for fucking with .ipynb files): https://jupyterlab.readthedocs.io/en/stable/
+**JupyterLab (for fucking with .ipynb files)**: https://jupyterlab.readthedocs.io/en/stable/
 
-Sample-Output-Graphs: Sorry these don't have axis labels, lol. These are the original output graphs Micaela did, to give you an idea of the end goal.
+**Sample-Output-Graphs**: Sorry these don't have axis labels, lol. These are the original output graphs Micaela did, to give you an idea of the end goal.
 
-What-Micaela-Did: Basically a README file Micaela made for me. Might not have everything needed since she made it pretty quick, so definitely talk to Micaela.
+**What-Micaela-Did**: Basically a README file Micaela made for me. Might not have everything needed since she made it pretty quick, so definitely talk to Micaela.
