@@ -15,3 +15,5 @@ GitHub for TierPsy: https://github.com/ver228/tierpsy-tracker
 JupyterLab (for fucking with .ipynb files): https://jupyterlab.readthedocs.io/en/stable/
 
 Sample-Output-Graphs: Sorry these don't have axis labels, lol. These are the original output graphs Micaela did, to give you an idea of the end goal.
+
+What-Micaela-Did: Basically a README file Micaela made for me. Might not have everything needed since she made it pretty quick, so definitely talk to Micaela.
