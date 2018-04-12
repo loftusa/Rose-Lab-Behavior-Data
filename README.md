@@ -12,3 +12,4 @@ This is an example video that just shows what kinds of videos these data are com
 ## Other:
 GitHub for TierPsy: https://github.com/ver228/tierpsy-tracker
 
+JupyterLab (for fucking with .ipynb files): https://jupyterlab.readthedocs.io/en/stable/
